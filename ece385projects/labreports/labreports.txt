@@ -1,1 +1,0 @@
-This consists of all my reports for the projects covered in UIUC: ECE 385: Digital Systems Laboratory. 
