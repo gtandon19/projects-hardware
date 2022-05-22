@@ -1,1 +1,0 @@
-This is a directory containing all the projects worked on in ECE 385 at UIUC.
