@@ -1,0 +1,3 @@
+This is the directory containing the work we did for the Final Project for ECE 385: It was a Rubik's Cube simulator. 
+
+Goal: To build a functional Rubik's Cube that would interpret keyboard clicks and reflect change on the VGA Monitor.
